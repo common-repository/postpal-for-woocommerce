@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PostPal - WooCommerce\n"
+"POT-Creation-Date: 2016-08-21 13:52+0300\n"
+"PO-Revision-Date: 2016-08-21 13:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: PostPal <hello@postpal.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: WC_PostPal_Shipping.php:21
+msgid "PostPal Shipping"
+msgstr "PostPal`i kiirkuller"
+
+#: WC_PostPal_Shipping.php:22
+msgid "Connect your WooCommerce to PostPal on-demand shipping platform"
+msgstr "Lisa oma WooCommerce`i e-poele PostPal`i kiirkulleri võimalus"
+
+#: WC_PostPal_Shipping.php:169 WC_PostPal_Shipping.php:190
+#, php-format
+msgid "If ordered now, delivery would be completed at %s approximately %s"
+msgstr "Kohe tellides jõuaks kaup Sinuni <b>%s</b> umbes <b>%s</b>"
+
+#: WC_PostPal_Shipping.php:209
+msgid "Today"
+msgstr "täna"
+
+#: WC_PostPal_Shipping.php:212
+msgid "Tomorrow"
+msgstr "homme"
+
+#: WC_PostPal_Shipping.php:235 WC_PostPal_Shipping.php:255
+msgid "PostPal shipping plugin is not configured correctly"
+msgstr "PostPal`i plug-in pole korrektselt seadistatud"
+
+#: WC_PostPal_Shipping.php:259
+msgid "This shipping address was not found"
+msgstr "Sisestatud aadressi ei leitud"
+
+#: WC_PostPal_Shipping.php:263
+msgid "This shipping address is out of PostPal coverage area"
+msgstr "Sisestatud aadress jääb PostPal`i teeninduspiirkonnast välja"
+
+#: WC_PostPal_Shipping.php:268
+msgid "Name is not entered"
+msgstr "Nimi on sisestamata"
+
+#: WC_PostPal_Shipping.php:272
+msgid "Address is not entered"
+msgstr "Aadress on sisestamata"
+
+#: WC_PostPal_Shipping.php:276
+msgid "Phone number is not entered"
+msgstr "Telefoninumber on sisestamata"
+
+#: WC_PostPal_Shipping.php:280
+msgid "Package size is not entered"
+msgstr "Paki suurus on sisestamata"
+
+#: WC_PostPal_Shipping.php:285
+msgid "Name is not correct"
+msgstr "Nimi ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:289
+msgid "Company name is not correct"
+msgstr "Ettevõtte nimi ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:293
+msgid "Email is not correct"
+msgstr "E-posti aadress ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:297
+msgid "Second shipping address field is not correct"
+msgstr "Korteri numbri/korruse vms info väli ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:301
+msgid "Shipping address is not correct"
+msgstr "Postiaadress ei ole korrektne"
+
+#: WC_PostPal_Shipping.php:305
+msgid "City in shipping address is not correct"
+msgstr "Linn ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:309
+msgid "Country in shipping address is not correct"
+msgstr "Riik ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:313
+msgid "Postal code in shipping address is not correct"
+msgstr "Postiindeks ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:317
+msgid "Phone number is not correct"
+msgstr "Telefoninumber ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:321
+msgid "Order comments are not correct"
+msgstr "Kommentaarid ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:325
+msgid "Package size is not correct"
+msgstr "Paki suurus ei ole korrektselt sisestatud"
+
+#: WC_PostPal_Shipping.php:384
+msgid "PostPal courier is already ordered. Skipping second order."
+msgstr "PostPal`i kuller on juba tellitud"
+
+#: WC_PostPal_Shipping.php:409
+msgid "PostPal shipping plugin is not configured correctly!"
+msgstr "PostPal`i plug-in pole korrektselt seadistatud"
+
+#: WC_PostPal_Shipping.php:414
+msgid "Unable to place a PostPal order!"
+msgstr "PostPal`i tellimuse edastamine ebaõnnestus!"
+
+#: WC_PostPal_Shipping.php:432
+#, php-format
+msgid "Order for PostPal courier has been placed. Order tracking number is %s"
+msgstr "PostPal`i kuller on tellitud. Jälgimise number on %s"
+
+#: WC_PostPal_Shipping.php:495
+msgid "PostPal courier does not seem to be ordered."
+msgstr "PostPal`i kullerit ei ole tellitud"
+
+#: WC_PostPal_Shipping.php:503
+msgid ""
+"PostPal order has not been placed yet, as the order is waiting for a payment."
+msgstr ""
+"PostPal`i kullerit ei ole veel tellitud, kuna tellimuse eest pole veel "
+"tasutud"
+
+#: WC_PostPal_Shipping.php:510
+msgid "Tracking number"
+msgstr "Jälgimise number"
+
+#: WC_PostPal_Shipping.php:513
+msgid "Package label"
+msgstr "Paki silt"
+
+#: WC_PostPal_Shipping.php:517
+msgid "Track delivery"
+msgstr "Jälgi saadetist"
+
+#: settings.php:12
+msgid "Enable/Disable"
+msgstr "Aktiveeri/Deaktiveeri"
+
+#: settings.php:14
+msgid "Enable PostPal shipping method"
+msgstr "Aktiveeri PostPal`i kiirkuller"
+
+#: settings.php:18
+msgid "API Key"
+msgstr "API võti"
+
+#: settings.php:20
+msgid "You can generate the API Key from PostPal self-service"
+msgstr "API võtme saad genereerida PostPal`i iseteenindusest"
+
+#: settings.php:24
+msgid "Warehouse Code"
+msgstr "Lao API kood"
+
+#: settings.php:26
+msgid "You can setup the warehouse and get the key from PostPal self-service"
+msgstr "Lao API koodi saab PostPal`i iseteenindusest pärast lao seadistamist"
+
+#: settings.php:30
+msgid "Cost"
+msgstr "Maksumus"
+
+#: settings.php:33
+msgid "Price that you will ask from your customer"
+msgstr "Tasu, mida Sa küsid oma kliendilt"
+
+#~ msgid ""
+#~ "If you order now, and pay for it with an automated payment (banklink, "
+#~ "PayPal etc) it will get delivered to you at <b>%s</b> approximately at <b>"
+#~ "%s</b>"
+#~ msgstr "Kohe tellides jõuaks kaup Sinuni <b>%s</b> umbes <b>%s</b>"
+
+#~ msgid "If ordered now, delivery would be completed approximately %s"
+#~ msgstr "Kohe tellides jõuaks kaup Sinuni umbes <b>%s</b>"
+
+#~ msgid ""
+#~ "If you order now, and pay for it with an automated payment (banklink, "
+#~ "PayPal etc) it will get delivered to you approximately at <b>%s</b>"
+#~ msgstr ""
+#~ "Kohe tellides ja makstes (pangalink, PayPal vms) jõuaks kaup Sinuni umbes "
+#~ "<b>%s</b>"

@@ -1,0 +1,26 @@
+.PostPal-cart-eta {
+    background-color: #7ED2D6 !important;
+    border:0 !important;
+}
+
+.PostPal-cart-eta td {
+    border:0 !important;
+    background-color: #7ED2D6 !important;
+    padding: 16px 22px !important;
+    margin:0 !important;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    line-height: 1.5em !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    color: #FFFFFF !important;
+    text-align: left !important;
+    vertical-align: middle !important;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    height:77px !important;
+}
+
+.PostPal-cart-eta td a img {
+    margin:0 !important;
+    padding:0 !important;
+}
